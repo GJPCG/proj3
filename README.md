@@ -1,0 +1,3 @@
+# Projeto de exemplo
+
+Este projecto faz,...
